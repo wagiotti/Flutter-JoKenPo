@@ -2,7 +2,7 @@
 
 
 A simple game to learn Flutter.
-
+![Start Image](https://github.com/wagiotti/Flutter-JoKenPo/blob/master/images/startGame.jpg)
 ## Getting Started
 
 This little game is the second exercise in the mobile application development course, which I am doing at Udemy.
